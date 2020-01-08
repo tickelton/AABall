@@ -9,7 +9,7 @@ There are two game variants:
 * "Game A" with two balls
 * "Game B" with three balls
 
-The games are started with the keys "m" and "n" respectively.
+The games are started with the keys "n" and "m" respectively.
 
 The juggler's arms are controlled with the keys "a" and "d".
 
@@ -25,7 +25,7 @@ A solution file is supplied in the repository.
 
 ## License
 
-flopbear is distributed under the terms of the ISC license.
+AABall is distributed under the terms of the ISC license.
 
 See LICENSE for details.
 
