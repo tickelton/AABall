@@ -1,6 +1,6 @@
 # AABall
 
-![screenshot](https://gitlab.com/tickelton/AABall/raw/master/artwork/AABall_640.gif)
+![screenshot](https://github.com/tickelton/AABall/raw/master/artwork/AABall_640.gif)
 
 
 AABall is an ASCII Art clone of the classic Nintendo Game & Watch game "Ball".
